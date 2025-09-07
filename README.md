@@ -4,13 +4,14 @@
 
 - **VISHNU SAI PADYALA**  
   - UFID:32712860
--  **SRIKAR PANUGANTI**
+- **SRIKAR PANUGANTI**
   - UFID: 38909216
 
 ## GitHub Repository
 
 [GitHub Link]([https://github.com/your-repo-link](https://github.com/VISHNU07202003/COP5615-Project-1-Gleam-Implementation-))
-- [GitHub Link] ([https://github.com/Srikarpanuganti5 ][( https://github.com/Srikarpanuganti5/COP5615-Project-1-Gleam-Implementation )])
+
+[GitHub Link] ([https://github.com/Srikarpanuganti5 ][( https://github.com/Srikarpanuganti5/COP5615-Project-1-Gleam-Implementation )])
 
 # Project Description
 
